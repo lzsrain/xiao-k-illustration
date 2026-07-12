@@ -14,6 +14,12 @@ Preserve Xiao-K's six identity anchors exactly:
 Scene:
 {K 的核心动作、情绪和主要物件}
 
+Xiao-K's role:
+{operator / carrier / repairer / tester / gatekeeper / sharer}
+
+Required physical contact:
+{明确写出小K的手、脚、身体或尾钟正在接触什么，以及接触后发生什么变化}
+
 Core meaning:
 {一句话}
 
@@ -26,7 +32,7 @@ Optional Chinese text:
 Visual direction:
 Rough black crayon and dry-pencil lines, warm-white or very pale cool-gray body fill, restrained warm-yellow accents, clean white background, generous whitespace, understated workplace humor, clear readable action. K must perform the core action rather than decorate the corner.
 
-Do not redesign the character, add animal ears, use a square pig-like snout, add logos or letters, copy a third-party composition, imitate a living artist, use photorealism, 3D rendering, gradients, dense office scenery, or PPT-style information blocks.
+Xiao-K must physically touch, push, carry, repair, test, stop or transform the key object. A neutral standing pose beside the scene is a failed composition. Do not redesign the character, add animal ears, use a square pig-like snout, add logos or letters, copy a third-party composition, imitate a living artist, use photorealism, 3D rendering, gradients, dense office scenery, or PPT-style information blocks.
 ```
 
 ## Character repair

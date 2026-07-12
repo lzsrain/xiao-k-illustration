@@ -16,6 +16,8 @@ description: 用原创“小K”角色为公众号、小红书、抖音、视频
 - 根据发布渠道读取 `references/platform-formats.md`。
 - 同时为公众号和小红书制作发布包时，读取 `references/wechat-xhs-workflow.md`。
 - 规划文章或多图内容时读取 `references/content-to-scene.md` 和 `references/composition-patterns.md`。
+- 需要决定小K具体做什么、使用什么物件时，读取 `references/scene-grammar.md`。
+- 不知道如何把文章段落转成图片时，读取 `references/case-examples.md`；只借鉴推理方式，不复用案例构图。
 - 编写生图提示词时读取 `references/prompt-template.md`。
 - 交付前读取 `references/qa-checklist.md`。
 
@@ -25,7 +27,7 @@ description: 用原创“小K”角色为公众号、小红书、抖音、视频
 
 1. 识别发布渠道、内容主题、期望数量和是否需要文字。
 2. 提取最值得视觉化的观点、动作、冲突和结果，不平均分配插图。
-3. 为每张图确定一个核心意思、一个 K 的动作和最多两个主要物件。
+3. 先确定结构类型，再为每张图选择一个小K的核心动作和最多两个主要物件。小K必须推动、承受、修复或改变画面中的关键结构。
 4. 先列简短 shot config；用户明确要求生成时，直接调用图片生成工具完成图片。
 5. 每张图单独生成。角色母版只约束 K 的身份，不照搬母版动作和构图。
 6. 按角色一致性、内容可读性、平台安全区和原创边界验收；失败时只修出错层。
@@ -40,6 +42,7 @@ description: 用原创“小K”角色为公众号、小红书、抖音、视频
 - K 的动作和情绪
 - 主要物件
 - 构图模式
+- 小K的核心职责
 - 必要文字及安全区
 
 ## Defaults
