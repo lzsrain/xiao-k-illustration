@@ -1,0 +1,7 @@
+interface:
+  display_name: "小K Illustration"
+  short_description: "用原创小K角色生成多平台内容配图"
+  default_prompt: "Use $xiao-k-illustration to turn this content into consistent 小K illustrations for the requested platform."
+
+policy:
+  allow_implicit_invocation: true
