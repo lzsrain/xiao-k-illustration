@@ -6,6 +6,36 @@ GitHub: https://github.com/lzsrain/xiao-k-illustration
 
 ![小K表情表](xiao-k-illustration/assets/ip/k/expression-sheet.png)
 
+## 小K不只是表情包
+
+角色母版和四状态表只负责校准身份。真正生成文章配图时，小K必须进入场景，承担操作、搬运、修复、测试、守门或分享等职责。每张场景图至少要有一个手、脚、身体或尾钟与关键物件的接触点。
+
+### 校准角色固定特征
+
+小K拿着测量工具，亲自检查角、横眼窗、耳机、尾钟和弹簧腿，排除会漂移的错误零件。
+
+![小K校准角色固定特征](examples/images/01-character-calibration.png)
+
+### 同一主题，重构成三个平台
+
+小K把同一内容核心重新包装成公众号横图、小红书连续卡片和短视频竖屏，而不是直接复制同一张图。
+
+![小K跨平台重构内容](examples/images/02-cross-platform-restructure.png)
+
+### 给 AI 全部权限前先确认
+
+小K踩住刹车、拉动安全杆，并用尾钟拦住文件，表达“先确认，再执行”。
+
+![小K权限确认](examples/images/03-permission-checkpoint.png)
+
+### Web Coding 先给具体参考
+
+小K把参考框架按在空白浏览器上，拆出页面结构后再重构，而不是只说“高级一点”。
+
+![小K重构网页参考](examples/images/04-web-coding-reference.png)
+
+这些图是能力示例，不是固定构图模板。遇到新文章时，Skill 会重新提取核心判断、选择结构、分配小K职责并发明新的动作和物件组合。
+
 小K Skill 是一个可安装的 AI Agent Skill，用统一的原创角色小K为公众号、小红书、抖音、视频号、文章、博客和 Vlog 生成手绘视觉。
 
 小K是一只总在赶时间的几何牛马：戴黄色耳机，有一双困倦横眼、钟表尾巴和弹簧腿。它不是技术大神，而是一个会卡住、会返工，也会继续把事情做完的普通行动者。
