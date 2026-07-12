@@ -2,6 +2,10 @@
 
 GitHub: https://github.com/lzsrain/xiao-k-illustration
 
+![小K角色母版](xiao-k-illustration/assets/ip/k/character-reference.png)
+
+![小K表情表](xiao-k-illustration/assets/ip/k/expression-sheet.png)
+
 小K Skill 是一个可安装的 AI Agent Skill，用统一的原创角色小K为公众号、小红书、抖音、视频号、文章、博客和 Vlog 生成手绘视觉。
 
 小K是一只总在赶时间的几何牛马：戴黄色耳机，有一双困倦横眼、钟表尾巴和弹簧腿。它不是技术大神，而是一个会卡住、会返工，也会继续把事情做完的普通行动者。
